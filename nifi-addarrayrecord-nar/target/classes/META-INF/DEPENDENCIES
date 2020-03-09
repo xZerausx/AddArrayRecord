@@ -1,0 +1,23 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-addarrayrecord-nar
+
+
+From: 'an unknown organization'
+  - JSON in Java (https://github.com/douglascrockford/JSON-java) org.json:json:jar:20140107
+    License: The JSON License  (http://json.org/license.html)
+
+From: 'Apache NiFi Project' (http://nifi.apache.org/)
+  - nifi-standard-services-api-nar (http://nifi.apache.org/nifi-nar-bundles/nifi-standard-services/nifi-standard-services-api-nar) org.apache.nifi:nifi-standard-services-api-nar:nar:1.9.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (http://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.9.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-addarrayrecord-processors (http://nifi.apache.org/nifi-nar-bundles/nifi-addarrayrecord-bundle/nifi-addarrayrecord-processors) org.claro.mediacion.nifi:nifi-addarrayrecord-processors:jar:1.0-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+

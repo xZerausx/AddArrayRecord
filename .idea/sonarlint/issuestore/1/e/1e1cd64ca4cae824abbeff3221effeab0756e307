@@ -1,0 +1,10 @@
+
+¤squid:S1186u"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ª½ÿàüÿÿÿÿ8ÖıŞÛ€.
+wsquid:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(­í†ô8ÖıŞÛ€.
+|squid:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(àÏ±Øúÿÿÿÿ8ÖıŞÛ€.
+}squid:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ÿÏüÿÿÿÿ8ÖıŞÛ€.
+osquid:HiddenFieldCheckd"ARename "relationships" which hides the field declared at line 89.(àÏ±Øúÿÿÿÿ8ÖıŞÛ€.
+hsquid:HiddenFieldCheck]"?Rename "descriptors" which hides the field declared at line 87.(­í†ô8ÖıŞÛ€.
+squid:UselessImportCheck("QRemove this unnecessary import: java.lang classes are always implicitly imported.(Ãş”«ıÿÿÿÿ8ÖıŞÛ€.
+„squid:S1488Ğ"eImmediately return this expression instead of assigning it to the temporary variable "updatedRecord".(¼»8¹…ù‚.
+¼%squid:RedundantThrowsDeclarationCheckz"Remove the declaration of thrown exception 'org.apache.nifi.processor.exception.ProcessException' which is a runtime exception.(¿¨‘ıúÿÿÿÿ8ÖıŞÛ€.
