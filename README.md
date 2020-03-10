@@ -1,4 +1,3 @@
-AddArrayRecord
 AddArrayRecord es un procesador que agrega un campo de tipo record y traslada informacion de la estructura principal a este nuevo campo para dejar un historico.
 si se configuran los campos Field1,Field3 : 
 
